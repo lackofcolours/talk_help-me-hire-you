@@ -2,12 +2,12 @@
 
 As a UX focused front end developer, I’m a strong believer in empathy. Understanding what others want is key to effective collaboration. In this session, I’m going to share my views on:
 
-What do I look for in a developer CV?
-What kind of tools can be used to assess candidates?
-How much does a technical assessment weigh on my mind?
-What am I looking for at the speed interview?
-What makes a candidate stand out to me?
-How do I approach “team fit”, and why do I avoid this term?
+- What do I look for in a developer CV?
+- What kind of tools can be used to assess candidates?
+- How much does a technical assessment weigh on my mind?
+- What am I looking for at the speed interview?
+- What makes a candidate stand out to me?
+- How do I approach "team fit”, and why do I avoid this term?
 
 Hopefully, this will help you empathise with the recruiters, and find ways to help them hire you!
 
