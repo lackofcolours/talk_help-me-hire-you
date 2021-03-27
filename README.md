@@ -1,4 +1,4 @@
-# Help me hire you! Tips for landing a dev role
+# Help me hire you! Tips for landing your first dev role
 
 As a UX focused front end developer, I’m a strong believer in empathy. Understanding what others want is key to effective collaboration. In this session, I’m going to share my views on:
 
