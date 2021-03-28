@@ -53,17 +53,17 @@ section.has-light-background {
 		text-transform: none;
 	}
 
-	h1 {
-		color: $headingColor;
-	}
-
-	em {
+	em,
+	strong {
 		color: $headingColor;
 	}
 
 	strong {
 		font-weight: 600;
-		color: $headingColor;
+	}
+
+	.stretch img {
+		max-height: 80%;
 	}
 
 	.img-mask--round {
@@ -84,4 +84,14 @@ section.has-light-background {
 			max-width: 100%;
 		}
 	}
+}
+
+.visually-hidden:not(:focus):not(:active) {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
 }
