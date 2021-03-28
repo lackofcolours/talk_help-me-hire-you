@@ -18,7 +18,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
   --heading-font: Source Sans Pro, Helvetica, sans-serif;
-  --heading-color: #fff;
+  --heading-color: #8DFCE4;
   --heading-line-height: 1.2;
   --heading-letter-spacing: normal;
   --heading-text-transform: uppercase;
@@ -70,7 +70,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #fff;
+  color: #8DFCE4;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
@@ -302,3 +302,19 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal bold {
   font-weight: 600;
   color: #8DFCE4; }
+
+.reveal .img-mask--round {
+  display: block;
+  border: 6px solid #fff;
+  width: 50%;
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+  border-radius: 50%; }
+  .reveal .img-mask--round img {
+    padding: 0;
+    margin: 0;
+    display: block;
+    width: 100%;
+    max-width: 100%; }
