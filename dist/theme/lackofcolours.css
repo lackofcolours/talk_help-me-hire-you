@@ -299,7 +299,10 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal h1 {
   color: #8DFCE4; }
 
-.reveal bold {
+.reveal em {
+  color: #8DFCE4; }
+
+.reveal strong {
   font-weight: 600;
   color: #8DFCE4; }
 

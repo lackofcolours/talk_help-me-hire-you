@@ -57,7 +57,11 @@ section.has-light-background {
 		color: $headingColor;
 	}
 
-	bold {
+	em {
+		color: $headingColor;
+	}
+
+	strong {
 		font-weight: 600;
 		color: $headingColor;
 	}
