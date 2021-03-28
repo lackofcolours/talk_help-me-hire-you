@@ -14,7 +14,7 @@ Hopefully, this will help you empathise with the recruiters, and find ways to he
 _Disclaimer_: My advice is based on observations and personal experience. It does not represent an organisation’s view or practice.
 
 This 60mins talk was prepared for:
-- [Summer of Tech Bootcamp](https://summeroftech.co.nz/) - 30th March 2021
+- [Summer of Tech Bootcamp](https://summeroftech.co.nz/) - 31st March 2021
 
 ## Viewing
 
