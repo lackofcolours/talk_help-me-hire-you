@@ -19,7 +19,7 @@ This 60mins talk was prepared for:
 ## Viewing
 
 The slides can be viewed on:
-
+https://lackofcolours.github.io/talk_help-me-hire-you/
 
 To view slide notes, open the slide and press the `s` key.
 
