@@ -293,7 +293,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   .backgrounds {
     background-color: #181E2B; } }
 
-.reveal h1, .reveal h2, .reveal h3 {
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
   text-transform: none; }
 
 .reveal em,
