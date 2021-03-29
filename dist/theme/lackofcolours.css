@@ -322,6 +322,11 @@ section.has-light-background, section.has-light-background h1, section.has-light
     width: 100%;
     max-width: 100%; }
 
+.reveal .nested-list {
+  list-style: inside;
+  margin-top: .5em;
+  font-size: .85em; }
+
 .visually-hidden:not(:focus):not(:active) {
   clip: rect(0 0 0 0);
   clip-path: inset(50%);

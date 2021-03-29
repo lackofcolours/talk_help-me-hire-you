@@ -84,6 +84,12 @@ section.has-light-background {
 			max-width: 100%;
 		}
 	}
+
+	.nested-list {
+		list-style: inside;
+		margin-top: .5em;
+		font-size: .85em;
+	}
 }
 
 .visually-hidden:not(:focus):not(:active) {
